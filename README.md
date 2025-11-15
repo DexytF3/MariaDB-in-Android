@@ -12,7 +12,7 @@ MariaDB in Android with Termux Application
 
 1. Download and install the Termux APK from the link above (open the APK on your device to install)
 2. Open the Termux application
-3. Update Termux packages and install `git`:
+3. Update Termux packages :
 
 ```bash
 pkg update -y && yes | pkg upgrade -y
